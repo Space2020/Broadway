@@ -1,4 +1,4 @@
-.html{
+html{
   margin: 0;
 }
 
@@ -82,7 +82,7 @@ h4{
 /* Footer Section */
 
 .footer{
-  background-color: #ABB2B9;
+  background-color: #566573;
   padding-bottom: 20px;
 }
 
@@ -94,4 +94,13 @@ h4{
 
 .align-left li{
   display: inline;
+}
+
+.footer li{
+  text-decoration: none;
+  padding: 5px;
+}
+
+.footer a{
+  text-decoration: underline;
 }
